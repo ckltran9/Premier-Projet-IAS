@@ -4,7 +4,7 @@
 <br/>
 
 ## 📚PRÉSENTATION
-Ce modèle a pour but de trouver des schémas pour expliquer le risque de crédit matérialisé avec certaines caractéristiques de l'emprunteur (solvabilité,fiabilité,etc...)  
+Ce modèle a pour objectif de trouver des schémas expliquant le risque de crédit formé avec certaines caractéristiques de l'emprunteur (solvabilité,fiabilité,etc...)  
 Approche utilisée: régression logistique
 <br/>
 
